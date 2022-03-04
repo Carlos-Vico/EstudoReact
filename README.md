@@ -45,7 +45,7 @@ Rode em modo desenvolvedor
 
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no Brownser
 
-## Link do CDN
+## Link do CDN usado
 ## `https://cdnjs.com/libraries/semantic-ui`
 
 ### Oque foi estudado
