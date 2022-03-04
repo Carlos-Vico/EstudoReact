@@ -52,8 +52,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  - Componente controlado
  - Função CallBack
 ## Descrição
-Usando componente controlado "Input"
-foi criado uma função que é chamada a cada inserção de dado no elemento.
+
+- Controlando o compunente "Input",  foi criado uma função que é chamada a cada inserção de dado no elemento.
 
 
 
