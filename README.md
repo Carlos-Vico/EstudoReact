@@ -3,7 +3,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Avaliação de codigo
+```
 
 class CampoDeBusca extends React.Component{
 
@@ -34,13 +35,15 @@ pegaAlteracaoNoElemento(event){
     }
 }
 export default CampoDeBusca;
+```
 
-In the project directory, you can run:
+No diretorio do projeto rode o comando:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Rode em modo desenvolvedor
+
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no Brownser
 
 ## Link do CDN
 ## `https://cdnjs.com/libraries/semantic-ui`
